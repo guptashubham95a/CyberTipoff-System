@@ -187,7 +187,7 @@ const SurveyForm = () => {
           Submit
         </Button ><br/><br/>
         OR
-        <Button variant="" onClick={ skiptip()} style={{ backgroundColor:'grey',width: "100%" }} >
+        <Button variant="" onClick={()=> skiptip()} style={{ backgroundColor:'grey',width: "100%" }} >
           Skip Survey
         </Button ><br/><br/>
         
