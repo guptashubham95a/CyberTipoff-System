@@ -7,7 +7,7 @@ The Cyber Tip-Off System is a web-based crime-reporting platform designed to fac
 
 ## Additional Repositories
 
-### Police Authority(Admin) Platform
+### Police Authority(Cyber Admin) Platform
 The second platform for police authorities is available at [Admin Platform Repository](https://github.com/guptashubham95a/cyber-admin)
 
 ## Features
