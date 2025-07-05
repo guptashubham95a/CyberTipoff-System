@@ -39,7 +39,44 @@ The second platform for police authorities is available at [Admin Platform Repos
 - **Database:** MongoDB, Firebase,...
 - **Authentication & Notifications:** Firebase,...
 - **geolocation, maps:** GCP,...
-- 
+
+## Demo
+
+<p align="center">
+  <img src="81fe53dc-28da-4d26-bc1d-91f1873a0c45.png" alt="Prize" width="70%" />
+</p>
+
+<p align="center">
+  <img src="login(1).jpg" alt="Login Screenshot" width="70%" />
+</p>
+
+<p align="center">
+  <img src="tiphome(2).jpg" alt="Home Screenshot" width="70%" />
+</p>
+
+<p align="center">
+  <img src="tipsurvey(4).jpg" alt="Survey Screenshot" width="70%" />
+</p>
+
+<p align="center">
+  <img src="tipsurvey(2)(5).jpg" alt="Survey 2 Screenshot" width="70%" />
+</p>
+
+<p align="center">
+  <img src="tipcharts(6).jpg" alt="Charts Screenshot" width="70%" />
+</p>
+
+<p align="center">
+  <img src="tipfooter(7).jpg" alt="Footer Screenshot" width="70%" />
+</p>
+
+<p align="center">
+  <img src="tipform(3).jpg" alt="Form Screenshot" width="70%" />
+</p>
+
+
+
+
 ## To run the code
 
 In the project directory, you can run:
