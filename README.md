@@ -43,8 +43,9 @@ The second platform for police authorities is available at [Admin Platform Repos
 ## Demo
 
 <p align="center">
-  <img src="prize.png" alt="Prize" width="70%" />
+  <img src="prize.jpg" alt="Prize Screenshot" width="70%" />
 </p>
+
 
 <p align="center">
   <img src="login(1).jpg" alt="Login Screenshot" width="70%" />
